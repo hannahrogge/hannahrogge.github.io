@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Large Presentation</title>
+    <link>http://hannahrogge.com/site/Production/Pages/Nick_House.html</link>
+    <description>Nickelodeon made a presentation to Target to show off all of their licensed merchandise. A multi-room house with a backyard was created on the Paramount lot to show the full diversity in context of a home.</description>
+    <item>
+      <title>backyard</title>
+      <link>http://hannahrogge.com/site/Production/Pages/Nick_House.html#0</link>
+      <guid isPermaLink="false">7566c52c-0689-482d-9ed9-c31b94657979</guid>
+      <enclosure url="http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01582/DSC01582.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01582/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01582/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01582/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;backyard&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>teen girl room</title>
+      <link>http://hannahrogge.com/site/Production/Pages/Nick_House.html#1</link>
+      <guid isPermaLink="false">b22347b5-07da-4cec-84a0-4f3509dd7b73</guid>
+      <enclosure url="http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01596/DSC01596.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01596/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01596/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01596/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;teen girl room&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>bathroom</title>
+      <link>http://hannahrogge.com/site/Production/Pages/Nick_House.html#2</link>
+      <guid isPermaLink="false">916130e2-5ba6-499b-a879-0ad52777ef1c</guid>
+      <enclosure url="http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01603/DSC01603.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01603/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01603/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01603/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;bathroom&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>living room</title>
+      <link>http://hannahrogge.com/site/Production/Pages/Nick_House.html#3</link>
+      <guid isPermaLink="false">637dc570-8fc0-4078-b2d4-f3c8011679cf</guid>
+      <enclosure url="http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01610/DSC01610.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01610/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01610/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Production/Pages/Nick_House_files/Media/DSC01610/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;living room&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

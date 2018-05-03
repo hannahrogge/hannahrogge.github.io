@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Los Angeles Times</title>
+    <link>http://hannahrogge.com/site/Press/Pages/LA_Times.html</link>
+    <description>Los Angeles Times</description>
+    <item>
+      <title>section cover</title>
+      <link>http://hannahrogge.com/site/Press/Pages/LA_Times.html#0</link>
+      <guid isPermaLink="false">2298d3b6-68cd-4afd-b7a0-6ab797268267</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20cover/LA%20times%20cover.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20cover/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20cover/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20cover/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;section cover&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>article</title>
+      <link>http://hannahrogge.com/site/Press/Pages/LA_Times.html#1</link>
+      <guid isPermaLink="false">69255e74-1d0c-4208-8cae-f154d009f532</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20review/LA%20times%20review.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20review/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20review/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/LA_Times_files/Media/LA%20times%20review/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;article&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

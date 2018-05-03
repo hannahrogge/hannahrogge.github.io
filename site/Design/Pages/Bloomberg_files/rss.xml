@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Events</title>
+    <link>http://hannahrogge.com/site/Design/Pages/Bloomberg.html</link>
+    <description>Four free-standing tree houses were designed, built and installed as part of a much larger event that was only up for two days.</description>
+    <item>
+      <title>girl’s house</title>
+      <link>http://hannahrogge.com/site/Design/Pages/Bloomberg.html#0</link>
+      <guid isPermaLink="false">f9ef0f7c-3cf3-4cf4-9741-1a21c526d3c3</guid>
+      <enclosure url="http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0578/100_0578.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0578/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0578/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0578/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;girl’s house&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>inside of girl’s house</title>
+      <link>http://hannahrogge.com/site/Design/Pages/Bloomberg.html#1</link>
+      <guid isPermaLink="false">cdd24eb3-3018-462a-81d9-47ef6cf86f39</guid>
+      <enclosure url="http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0585/100_0585.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0585/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0585/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0585/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;inside of girl’s house&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>tent houses connected with rope bridge</title>
+      <link>http://hannahrogge.com/site/Design/Pages/Bloomberg.html#2</link>
+      <guid isPermaLink="false">89928e09-8972-4225-858e-f166cbd67d52</guid>
+      <enclosure url="http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0591/100_0591.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0591/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0591/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/100_0591/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;tent houses connected with rope bridge&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>original treehouse sketch</title>
+      <link>http://hannahrogge.com/site/Design/Pages/Bloomberg.html#3</link>
+      <guid isPermaLink="false">4a572791-8c83-44c0-95a3-6d6d09278128</guid>
+      <enclosure url="http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/tree%20house%207/tree%20house%207.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/tree%20house%207/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/tree%20house%207/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Design/Pages/Bloomberg_files/Media/tree%20house%207/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;original treehouse sketch&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

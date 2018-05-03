@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Cole Hardware
+(part of Ace Hardware)</title>
+    <link>http://hannahrogge.com/site/Press/Pages/Cole_Hardware.html</link>
+    <description>Cole Hardware
+(part of Ace Hardware)</description>
+    <item>
+      <title>cover</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Cole_Hardware.html#0</link>
+      <guid isPermaLink="false">2a1c5ee8-c628-48c0-a3fb-700b4217c4ad</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20front/Cole%20Hardware%20front.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20front/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20front/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20front/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;cover&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>article</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Cole_Hardware.html#1</link>
+      <guid isPermaLink="false">98e32fd6-6955-4f50-855f-98163afcee18</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20article/Cole%20Hardware%20article.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20article/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20article/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Cole_Hardware_files/Media/Cole%20Hardware%20article/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;article&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

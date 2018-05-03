@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>get creative</title>
+    <link>http://hannahrogge.com/site/Press/Pages/Get_Creative.html</link>
+    <description>get creative</description>
+    <item>
+      <title>cover</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Get_Creative.html#0</link>
+      <guid isPermaLink="false">3cbe6b23-49a4-4bbf-bf80-47c03f6cc9a0</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20cover/Get%20Creative%20Magazine%20cover.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20cover/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20cover/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20cover/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;cover&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>article</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Get_Creative.html#1</link>
+      <guid isPermaLink="false">519eae4e-af63-49f8-a9c1-e14143d2c1e6</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20inside/Get%20Creative%20Magazine%20inside.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20inside/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20inside/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Get_Creative_files/Media/Get%20Creative%20Magazine%20inside/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;article&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Holiday Image</title>
+    <link>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image.html</link>
+    <description>Holiday Image provides decor for large retail companies who need the same displays in many locations.  Their showroom presents a diverse array of display items.</description>
+    <item>
+      <title>bronze birdcage set</title>
+      <link>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image.html#0</link>
+      <guid isPermaLink="false">1209cf59-1a26-4d41-9793-9eb058abd3c6</guid>
+      <enclosure url="http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0194/IMG_0194.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0194/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0194/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0194/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;bronze birdcage set&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>spring decor</title>
+      <link>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image.html#1</link>
+      <guid isPermaLink="false">d71cb6e8-39cf-4604-bcf5-2c2412ffddbd</guid>
+      <enclosure url="http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0199/IMG_0199.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0199/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0199/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0199/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;spring decor&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>client presentation for AT&amp;T</title>
+      <link>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image.html#2</link>
+      <guid isPermaLink="false">3d2918e8-3d3b-454d-a02e-92002cdefdf0</guid>
+      <enclosure url="http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0275/IMG_0275.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0275/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0275/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/IMG_0275/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;client presentation for AT&amp;amp;T&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>client presentation for Hudson Bay</title>
+      <link>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image.html#3</link>
+      <guid isPermaLink="false">1edf59f9-6402-4351-80cc-96a2a7837bb9</guid>
+      <enclosure url="http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/100_2966/100_2966.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/100_2966/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/100_2966/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Creative_Direction/Pages/Holiday_Image_files/Media/100_2966/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;client presentation for Hudson Bay&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Chicago Sun-Times</title>
+    <link>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times.html</link>
+    <description>Chicago Sun-Times</description>
+    <item>
+      <title>cover</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times.html#0</link>
+      <guid isPermaLink="false">fc34a0ef-3604-4708-a466-514dd64aa83a</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20front/Chicago%20Sun%20front.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20front/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20front/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20front/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;cover&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>article</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times.html#1</link>
+      <guid isPermaLink="false">7476be4c-f134-43e8-bac4-5b3a52aabd12</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20article/Chicago%20Sun%20article.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20article/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20article/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times_files/Media/Chicago%20Sun%20article/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;article&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

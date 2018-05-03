@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Press</title>
+    <link>http://hannahrogge.com/site/Press/Press.html</link>
+    <description>Press</description>
+    <item>
+      <title>Plenty</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Plenty.html</link>
+      <guid isPermaLink="false">bfb60978-4032-47e5-9962-8243c97d3f52</guid>
+    </item>
+    <item>
+      <title>ReadyMade</title>
+      <link>http://hannahrogge.com/site/Press/Pages/ReadyMade.html</link>
+      <guid isPermaLink="false">e7895d3e-8b01-4457-8314-5c87d30191bb</guid>
+    </item>
+    <item>
+      <title>Get Creative</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Get_Creative.html</link>
+      <guid isPermaLink="false">05c838d1-9632-463a-8079-152bcbb8a675</guid>
+    </item>
+    <item>
+      <title>Country Home</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Country_Home.html</link>
+      <guid isPermaLink="false">6a069826-43a0-4ecc-b075-730a5cdbb590</guid>
+    </item>
+    <item>
+      <title>LA Times</title>
+      <link>http://hannahrogge.com/site/Press/Pages/LA_Times.html</link>
+      <guid isPermaLink="false">168a971e-3084-4279-97b1-9cc0348855d1</guid>
+    </item>
+    <item>
+      <title>Chicago Sun Times</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Chicago_Sun_Times.html</link>
+      <guid isPermaLink="false">615827e5-e638-4661-bf89-ddcf3a9d9b0b</guid>
+    </item>
+    <item>
+      <title>Metro Newspapers</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers.html</link>
+      <guid isPermaLink="false">43e3fc22-4fd7-4c50-b0a0-fb380af12f82</guid>
+    </item>
+    <item>
+      <title>Cole Hardware</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Cole_Hardware.html</link>
+      <guid isPermaLink="false">b2129be6-8d1b-49fb-9468-53ec886f9d15</guid>
+    </item>
+  </channel>
+</rss>

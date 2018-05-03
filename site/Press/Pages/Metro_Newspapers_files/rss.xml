@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Metro Newspapers</title>
+    <link>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers.html</link>
+    <description>Metro Newspapers</description>
+    <item>
+      <title>cover</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers.html#0</link>
+      <guid isPermaLink="false">fbaa22a5-d58f-4298-944f-9f95b119cd70</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20front/Metro%20front.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20front/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20front/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20front/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;cover&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>article</title>
+      <link>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers.html#1</link>
+      <guid isPermaLink="false">55e7be58-8148-449d-9bcb-468755dafdd2</guid>
+      <enclosure url="http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20back/Metro%20back.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20back/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20back/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://hannahrogge.com/site/Press/Pages/Metro_Newspapers_files/Media/Metro%20back/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;article&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
